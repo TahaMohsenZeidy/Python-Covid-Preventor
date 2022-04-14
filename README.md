@@ -19,7 +19,7 @@ you can download all the necessary python libraries via this link that i used to
 ```bash
 https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 ```
-## Screen Shot
+## ScreenShot
 
 ![First Screenshot](screenShot.PNG)
 
